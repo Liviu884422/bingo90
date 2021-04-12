@@ -4,6 +4,6 @@ public class App {
 
     public static void main(String[] args) {
         TicketGenerator strip = new TicketGenerator();
-        strip.generateTickets(Integer.parseInt("3"));
+        strip.generateTickets(2);
     }
 }
